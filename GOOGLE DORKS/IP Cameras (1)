@@ -1,0 +1,11 @@
+# Title: IP Cameras
+
+# Google Dork: inurl:/view/viewer_index.shtml
+
+# Date: 19/03/2021
+
+# Author: Tobias Marcotto
+
+# Description: Find IP Cameras
+
+# Released: https://www.exploit-db.com/ghdb/6843
